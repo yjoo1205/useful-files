@@ -1,0 +1,6 @@
+# Project dependencies
+pandas==1.2.4
+numpy==1.20.3
+
+# Testing dependencies
+pytest==6.2.5
